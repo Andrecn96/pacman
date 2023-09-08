@@ -7,6 +7,6 @@ Para ganar lo unico necesario es hacer la operación antes de llegar al ultimo n
 Objetivo: agilizar el procedimiento de operaciones basicas.
 
 Desarrolladores:
-Ainhize Legarreta Garcia
+Ainhize Legarreta Garcia A01762291
 Tomas Davalos Carrascal
-Alex André Caballero García 
+Alex André Caballero García A01285990
